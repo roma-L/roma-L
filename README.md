@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Roma
-- 🌱 I’m learning web development :)  
-- 📫 How to reach me @kapovkofi
+- 🌱 I’m learning QA testing :)  
 
 <!---
 roma-L/roma-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
